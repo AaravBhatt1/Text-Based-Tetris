@@ -212,7 +212,7 @@ z_block = Block(
         Node(0, midWidth),
         Node(0, midWidth + 1),
         Node(1, midWidth + 1),
-        Node(2, midWidth + 1),
+        Node(1, midWidth + 2),
     ],
     Fore.RED,
 )
